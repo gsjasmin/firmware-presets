@@ -875,6 +875,21 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/other/goodboy_AstroJ5.txt",
+      "hash": "9c4829825d0c01ed69f1fb7e25a7802302faed81f3847257243787d5f4ddd72d",
+      "title": "Goodboy 4.3 AstroJ5 settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "goodboy"
+      ],
+      "author": "goodboy",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/other/gyroflow_min_blackbox.txt",
       "hash": "15c71e564d549b8e3abd80026c83ff17241606137af32dd5a7b6f42ee228cc4c",
       "title": "Gyroflow minimum settings",
